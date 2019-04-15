@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FesTicket_TestAutomation_Challenge">
+
+
+    <test name="LoinPage">
+        <classes>
+            <class name="com.TestCases.LoginPageTests"></class>
+        </classes>
+    </test>
+</suite>
